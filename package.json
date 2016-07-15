@@ -1,0 +1,27 @@
+{
+  "name": "aiport-pile-page",
+  "version": "0.0.1",
+  "description": "",
+  "main": "page.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surprisetalk/aiport-pile-page.git"
+  },
+  "keywords": [
+    "aiport",
+    "pile",
+    "page"
+  ],
+  "author": "taylor sarrafian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surprisetalk/aiport-pile-page/issues"
+  },
+  "homepage": "https://github.com/surprisetalk/aiport-pile-page#readme",
+  "dependencies": {
+    "mongoose": "^4.5.3"
+  }
+}
