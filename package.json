@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/surprisetalk/aiport-pile-page#readme",
   "dependencies": {
-    "mongoose": "^4.5.3"
+    "mongoose": "^4.5.3",
+    "underscore": "^1.8.3"
   }
 }
